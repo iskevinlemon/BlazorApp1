@@ -1026,3 +1026,5 @@
 /Users/kevin/Desktop/blazor/BlazorApp1/obj/Debug/net8.0/refint/BlazorApp1.dll
 /Users/kevin/Desktop/blazor/BlazorApp1/obj/Debug/net8.0/BlazorApp1.pdb
 /Users/kevin/Desktop/blazor/BlazorApp1/obj/Debug/net8.0/ref/BlazorApp1.dll
+/Users/kevin/Desktop/blazor/BlazorApp1/bin/Debug/net8.0/firebase.json
+/Users/kevin/Desktop/blazor/BlazorApp1/obj/Debug/net8.0/BlazorApp1.sourcelink.json

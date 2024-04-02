@@ -14,6 +14,7 @@ Live website can be viewed at
 <a href="https://dotnetblazor.web.app" target="_blank">dotnetblazor</d>
 
 ## Command
+Run on a local development server: <code>dotnet run --launch-profile http</code>
 Publish: <code>dotnet publish -c Release</code>
 
 ## Path of static files
