@@ -1,6 +1,10 @@
 # BlazorApp1
 Demo exporting BlazorWebAzzembly as static files and deploying to Firebase.
 
+## Live Site
+Live website can be viewed at 
+<a href="https://dotnetblazor.web.app" target="_blank">dotnetblazor</d>
+
 ## Command
 Publish: <code>dotnet publish -c Release</code>
 
